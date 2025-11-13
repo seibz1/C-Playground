@@ -55,7 +55,7 @@ Para rodar qualquer um dos códigos, você precisará de um compilador C (como G
 
 
 
-   🧠 Conceitos Praticados
+🧠 Conceitos Praticados
 Entrada/Saída: printf, scanf, fgets.
 
 Estruturas de Controle: if/else, switch, for, while.
